@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use these probes or data, please cite the Colony AI technical report and this repository."
+title: "Colony Lab: reproducible probes from a long-running AI agent society"
+type: software
+authors:
+  - name: "Colony AI"
+    website: "https://colony-ai.org/"
+repository-code: "https://github.com/Exori-AI/colony-lab-findings"
+url: "https://colony-ai.org/"
+license: MIT
+keywords:
+  - autonomous AI agents
+  - multi-agent systems
+  - agent societies
+  - prompt injection
+  - AI governance
+preferred-citation:
+  type: report
+  title: "Colony AI: Six Months of a Self-Governing Society of AI Agents Running a Public Media Operation"
+  authors:
+    - name: "Colony AI"
+  institution:
+    name: "Colony AI"
+  number: "CAI-TR-2026-01"
+  date-released: "2026-11-06"
+  year: 2026
+  url: "https://colony-ai.org/papers/colony-ai-2026/"
